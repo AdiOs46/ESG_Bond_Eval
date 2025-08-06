@@ -1,76 +1,76 @@
 Rank,Ticker,name,Sector,marketCap,total_score,total_grade,financial_health_score
-1,msft,Microsoft Corp,Technology,3957345484800.0,1533,A,1.2556517108652958
-2,amzn,Amazon.com Inc,Consumer Cyclical,2288594714624.0,1433,A,0.9882353327352702
-3,pg,Procter & Gamble Co,Consumer Defensive,353419526144.0,1292,A,1.296896923783983
-4,rtx,Raytheon Technologies Corp,Industrials,209187028992.0,1250,A,0.6437195709823988
-5,pep,PepsiCo Inc,Consumer Defensive,191267340288.0,1417,A,1.0618383079217575
-6,now,ServiceNow Inc,Technology,189329965056.0,1274,A,0.48429943728444363
-7,amgn,Amgen Inc,Healthcare,161540308992.0,1215,A,1.317216343449553
-8,bsx,Boston Scientific Corp,Healthcare,155954184192.0,1224,A,1.2902913702069434
-9,nee,Nextera Energy Inc,Utilities,147583336448.0,1287,A,1.1490078780996247
-10,dhr,Danaher Corp,Healthcare,143067185152.0,1259,A,1.3437444516448747
-11,de,Deere & Co,Industrials,137246998528.0,1204,A,1.1035745939004704
-12,aph,Amphenol Corp,Technology,132237852672.0,1290,A,0.8108846118953416
-13,cop,Conocophillips,Energy,117265260544.0,1536,A,1.159534104021644
-14,pld,Prologis Inc,Real Estate,99117129728.0,1268,A,1.105410899882866
-15,duk,Duke Energy Corp,Utilities,97860239360.0,1294,A,1.0199781662806524
-16,tt,Trane Technologies PLC,Industrials,95730409472.0,1409,A,1.080492110483606
-17,wm,Waste Management Inc,Industrials,93063798784.0,1306,A,0.9349672878099863
-18,abnb,Airbnb Inc,Consumer Cyclical,80206823424.0,1475,A,0.8312691519560993
-19,emr,Emerson Electric Co,Industrials,78806245376.0,1243,A,1.0306303810697481
-20,ecl,Ecolab Inc,Basic Materials,75181973504.0,1245,A,1.0025484665870235
-21,nem,Newmont Corporation,Basic Materials,73678757888.0,1419,A,1.455084188088602
-22,apd,Air Products and Chemicals Inc,Basic Materials,64803270656.0,1442,A,1.127247031357551
-23,rop,Roper Technologies Inc,Technology,58239619072.0,1260,A,0.7468097132472369
-24,pwr,Quanta Services Inc,Industrials,57858285568.0,1232,A,0.4055907657138472
-25,fcx,Freeport-McMoRan Inc,Basic Materials,56252002304.0,1226,A,1.101071810170544
-26,sre,Sempra Energy,Utilities,52930117632.0,1396,A,1.0897073130303552
-27,mpc,Marathon Petroleum Corp,Energy,51292545024.0,1381,A,0.22899409534552667
-28,bdx,Becton Dickinson and Co,Healthcare,51279724544.0,1306,A,1.0063602618021983
-29,pcar,Paccar Inc,Industrials,51173912576.0,1216,A,1.0076209320222995
-30,ctva,Corteva Inc,Basic Materials,49382285312.0,1242,A,0.924605896789459
-31,psx,Phillips 66,Energy,48903045120.0,1242,A,0.276747388067024
-32,oke,ONEOK Inc,Energy,46722473984.0,1262,A,0.7640206293847495
-33,tgt,Target Corp,Consumer Defensive,46002286592.0,1205,A,0.5710286985749213
-34,exc,Exelon Corp,Utilities,45339054080.0,1413,A,0.7129353218298633
-35,vlo,Valero Energy Corp,Energy,42074705920.0,1245,A,0.3130621525371261
-36,etr,Entergy Corp,Utilities,40408940544.0,1343,A,0.9381767403455754
-37,ed,Consolidated Edison Inc,Utilities,37831081984.0,1358,A,0.9857162466444007
-38,vrsk,Verisk Analytics Inc,Industrials,36961603584.0,1281,A,1.3613402857923846
-39,wec,WEC Energy Group Inc,Utilities,35453538304.0,1373,A,0.8997207219270794
-40,ctsh,Cognizant Technology Solutions Corp,Technology,34424590336.0,1270,A,0.650285309780491
-41,anss,ANSYS Inc,Technology,32906993664.0,1202,A,0.8694881707485337
-42,wab,Westinghouse Air Brake Technologies Corp,Industrials,32255410176.0,1238,A,1.021598127428415
-43,aee,Ameren Corp,Utilities,27687606272.0,1207,A,0.8062143744882249
-44,awk,American Water Works Company Inc,Utilities,27625043968.0,1348,A,1.1080902483111437
-45,adm,Archer-Daniels-Midland Co,Consumer Defensive,27217491968.0,1245,A,0.31213088013502616
-46,gis,General Mills Inc,Consumer Defensive,26801369088.0,1276,A,1.189366659283536
-47,ato,Atmos Energy Corp,Utilities,24927877120.0,1255,A,1.2930100862654315
-48,chd,Church & Dwight Co Inc,Consumer Defensive,22334242816.0,1267,A,1.2260814896322534
-49,eix,Edison International,Utilities,21192806400.0,1528,A,0.808227864609112
-50,ntap,NetApp Inc,Technology,20536160256.0,1229,A,0.7086586959556728
-51,trmb,Trimble Inc,Technology,19793178624.0,1280,A,0.8630503862508069
-52,tsn,Tyson Foods Inc,Consumer Defensive,19446333440.0,1244,A,0.45905426163236496
-53,gwre,Guidewire Software Inc,Technology,18852147200.0,1200,A,0.39122074395191453
-54,wy,Weyerhaeuser Co,Real Estate,18467072000.0,1340,A,0.30833173877618203
-55,lyb,LyondellBasell Industries NV,Basic Materials,16815757312.0,1269,A,0.3397325878419738
-56,clx,Clorox Co,Consumer Defensive,15332673536.0,1255,A,1.20780720793867
-57,aptv,Aptiv PLC,Consumer Cyclical,14180532224.0,1204,A,0.8506917483841304
-58,chrw,CH Robinson Worldwide Inc,Industrials,13627701248.0,1243,A,0.3796125280189517
-59,reg,Regency Centers Corp,Real Estate,13353395200.0,1312,A,0.9349830587854048
-60,are,Alexandria Real Estate Equities Inc,Real Estate,13236852736.0,1282,A,0.48605974135832586
-61,avy,Avery Dennison Corp,Consumer Cyclical,13079073792.0,1207,A,0.9513311417493547
-62,cnc,Centene Corp,Healthcare,12806293504.0,1218,A,0.16218620664573213
-63,cna,CNA Financial Corp,Financial Services,12534496256.0,1209,A,0.44226768646080944
-64,mos,Mosaic Co,Basic Materials,11363310592.0,1209,A,0.6115713862416126
-65,pnw,Pinnacle West Capital Corp,Utilities,11033662464.0,1408,A,0.42211997849037136
-66,uhs,Universal Health Services Inc,Healthcare,10721594368.0,1218,A,0.9158670078885063
-67,aes,AES Corp,Utilities,9167643648.0,1221,A,0.5538703530159492
-68,lnc,Lincoln National Corp,Financial Services,7283663360.0,1300,A,0.34287661399227365
-69,emn,Eastman Chemical Co,Basic Materials,7139679744.0,1258,A,0.8241990222957887
-70,hasi,Hannon Armstrong Sustainable Infrastructure Capital Inc,Financial Services,3119340544.0,1363,A,0.5408002548755393
-71,clsk,CleanSpark Inc,Financial Services,2975225088.0,1206,A,-2.090960153972983
-72,he,Hawaiian Electric Industries Inc,Utilities,1911233536.0,1243,A,-0.6452088138018628
-73,abcl,Abcellera Biologics Inc,Healthcare,1279008128.0,1239,A,-59.55261345482998
-74,mtrx,Matrix Service Co,Industrials,398005344.0,1256,A,-0.035259866546666296
-75,agfy,Agrify Corp,Industrials,46906800.0,1206,A,-19.30727229116821
+1,msft,Microsoft Corp,Technology,3922855460864.0,1533,A,0.5457
+2,amzn,Amazon.com Inc,Consumer Cyclical,2279622311936.0,1433,A,0.4632
+3,pg,Procter & Gamble Co,Consumer Defensive,352550092800.0,1292,A,0.5832
+4,rtx,Raytheon Technologies Corp,Industrials,209253957632.0,1250,A,0.3248
+5,pep,PepsiCo Inc,Consumer Defensive,190918213632.0,1417,A,0.4869
+6,now,ServiceNow Inc,Technology,187829600256.0,1274,A,0.2617
+7,amgn,Amgen Inc,Healthcare,161354809344.0,1215,A,0.5897
+8,bsx,Boston Scientific Corp,Healthcare,155331854336.0,1224,A,0.5665
+9,nee,Nextera Energy Inc,Utilities,146580258816.0,1287,A,0.5097
+10,dhr,Danaher Corp,Healthcare,142522974208.0,1259,A,0.5908
+11,de,Deere & Co,Industrials,137737191424.0,1204,A,0.5221
+12,aph,Amphenol Corp,Technology,131773906944.0,1290,A,0.4093
+13,cop,Conocophillips,Energy,117656608768.0,1536,A,0.522
+14,pld,Prologis Inc,Real Estate,99339862016.0,1268,A,0.4915
+15,duk,Duke Energy Corp,Utilities,96425377792.0,1294,A,0.4498
+16,tt,Trane Technologies PLC,Industrials,95405539328.0,1409,A,0.4822
+17,wm,Waste Management Inc,Industrials,92562284544.0,1306,A,0.4306
+18,abnb,Airbnb Inc,Consumer Cyclical,80213008384.0,1475,A,0.4196
+19,emr,Emerson Electric Co,Industrials,79070625792.0,1243,A,0.4618
+20,ecl,Ecolab Inc,Basic Materials,75550547968.0,1245,A,0.4757
+21,nem,Newmont Corporation,Basic Materials,73859776512.0,1419,A,0.6814
+22,apd,Air Products and Chemicals Inc,Basic Materials,65092595712.0,1442,A,0.5151
+23,pwr,Quanta Services Inc,Industrials,57981214720.0,1232,A,0.2434
+24,rop,Roper Technologies Inc,Technology,57888796672.0,1260,A,0.3638
+25,fcx,Freeport-McMoRan Inc,Basic Materials,56041996288.0,1226,A,0.5404
+26,sre,Sempra Energy,Utilities,53719244800.0,1396,A,0.4818
+27,pcar,Paccar Inc,Industrials,51565113344.0,1216,A,0.5268
+28,mpc,Marathon Petroleum Corp,Energy,51351678976.0,1381,A,0.1989
+29,bdx,Becton Dickinson and Co,Healthcare,50697912320.0,1306,A,0.4532
+30,psx,Phillips 66,Energy,49331417088.0,1242,A,0.206
+31,ctva,Corteva Inc,Basic Materials,49327710208.0,1242,A,0.4294
+32,oke,ONEOK Inc,Energy,47671996416.0,1262,A,0.3717
+33,tgt,Target Corp,Consumer Defensive,46540709888.0,1205,A,0.2988
+34,exc,Exelon Corp,Utilities,45136453632.0,1413,A,0.3524
+35,vlo,Valero Energy Corp,Energy,42506514432.0,1245,A,0.2399
+36,etr,Entergy Corp,Utilities,40355373056.0,1343,A,0.4276
+37,ed,Consolidated Edison Inc,Utilities,37535637504.0,1358,A,0.4446
+38,vrsk,Verisk Analytics Inc,Industrials,36985356288.0,1281,A,0.6255
+39,wec,WEC Energy Group Inc,Utilities,35405258752.0,1373,A,0.4227
+40,ctsh,Cognizant Technology Solutions Corp,Technology,34138882048.0,1270,A,0.3522
+41,anss,ANSYS Inc,Technology,32906993664.0,1202,A,0.4517
+42,wab,Westinghouse Air Brake Technologies Corp,Industrials,32291309568.0,1238,A,0.4794
+43,adm,Archer-Daniels-Midland Co,Consumer Defensive,27683526656.0,1245,A,0.231
+44,awk,American Water Works Company Inc,Utilities,27606509568.0,1348,A,0.5027
+45,aee,Ameren Corp,Utilities,27584522240.0,1207,A,0.389
+46,gis,General Mills Inc,Consumer Defensive,26660337664.0,1276,A,0.5114
+47,ato,Atmos Energy Corp,Utilities,24878639104.0,1255,A,0.5653
+48,chd,Church & Dwight Co Inc,Consumer Defensive,22202523648.0,1267,A,0.5787
+49,eix,Edison International,Utilities,21273622528.0,1528,A,0.3906
+50,ntap,NetApp Inc,Technology,20412100608.0,1229,A,0.3537
+51,trmb,Trimble Inc,Technology,19731144704.0,1280,A,0.3874
+52,tsn,Tyson Foods Inc,Consumer Defensive,19492583424.0,1244,A,0.2887
+53,gwre,Guidewire Software Inc,Technology,18780581888.0,1200,A,0.2962
+54,wy,Weyerhaeuser Co,Real Estate,18614982656.0,1340,A,0.2178
+55,lyb,LyondellBasell Industries NV,Basic Materials,16719262720.0,1269,A,0.2452
+56,clx,Clorox Co,Consumer Defensive,15452228608.0,1255,A,0.5468
+57,aptv,Aptiv PLC,Consumer Cyclical,14106492928.0,1204,A,0.4282
+58,chrw,CH Robinson Worldwide Inc,Industrials,13736344576.0,1243,A,0.2345
+59,reg,Regency Centers Corp,Real Estate,13481396224.0,1312,A,0.4329
+60,are,Alexandria Real Estate Equities Inc,Real Estate,13340138496.0,1282,A,0.3121
+61,avy,Avery Dennison Corp,Consumer Cyclical,13114165248.0,1207,A,0.444
+62,cnc,Centene Corp,Healthcare,12715432960.0,1218,A,0.1733
+63,cna,CNA Financial Corp,Financial Services,12607576064.0,1209,A,0.2435
+64,mos,Mosaic Co,Basic Materials,11318802432.0,1209,A,0.3219
+65,pnw,Pinnacle West Capital Corp,Utilities,11025303552.0,1408,A,0.2376
+66,uhs,Universal Health Services Inc,Healthcare,10613334016.0,1218,A,0.4325
+67,aes,AES Corp,Utilities,9064395776.0,1221,A,0.2892
+68,lnc,Lincoln National Corp,Financial Services,7351911936.0,1300,A,0.31
+69,emn,Eastman Chemical Co,Basic Materials,7049536512.0,1258,A,0.4115
+70,hasi,Hannon Armstrong Sustainable Infrastructure Capital Inc,Financial Services,3104159744.0,1363,A,0.5555
+71,clsk,CleanSpark Inc,Financial Services,3042623488.0,1206,A,0.3436
+72,he,Hawaiian Electric Industries Inc,Utilities,1911233536.0,1243,A,0.2264
+73,abcl,Abcellera Biologics Inc,Healthcare,1301394560.0,1239,A,0.3189
+74,mtrx,Matrix Service Co,Industrials,402561088.0,1256,A,0.1644
+75,agfy,Agrify Corp,Industrials,46906800.0,1206,A,0.16
